@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\Semafaro\SEMAFARO+INT-Externa Full Struct - copia\Semaforo-M-Inf.mcppi
+Project1=MyProject.mcppi
+Project2=Semaforo-POLI.mcppi
+[ActiveProject]
+Index=2
